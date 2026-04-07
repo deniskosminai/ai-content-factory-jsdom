@@ -85,12 +85,12 @@ graph LR
 
 ## 📸 6. Доказательства работы (Proof of Work)
 <p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_СКРИН_N8N_FACTORY" width="80%" alt="n8n Pipeline">
+<img src="https://github.com/deniskosminai/ai-content-factory-jsdom/blob/main/img/Screenshot_6.jpg" width="80%" alt="n8n Pipeline">
 <br>
 <i>Рис 1. Пайплайн пре-процессинга данных: узел HTML Extract срезает 98% "мусорного" веб-кода до тарификации в LLM.</i>
 </p>
 <p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_ТАБЛИЦУ_РЕЗУЛЬТАТОВ" width="80%" alt="Google Sheets Content">
+<img src="https://github.com/deniskosminai/ai-content-factory-jsdom/blob/main/img/Screenshot_48.jpg" width="80%" alt="Google Sheets Content">
 <br>
 <i>Рис 2. Автоматическая агрегация и выгрузка готового SMM-контента в корпоративную базу данных.</i>
 </p>
