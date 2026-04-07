@@ -1,5 +1,5 @@
 # ai-content-factory-jsdom
-![Content Factory Cover](ВСТАВИТЬ_ССЫЛКУ_НА_ОБЛОЖКУ_3)
+![Content Factory Cover](https://github.com/deniskosminai/ai-content-factory-jsdom/blob/main/img/AI%20CONTENT%20FACTORY.png)
 
 # AI Content Factory: Экономия 50x на токенах через пре-парсинг
 
