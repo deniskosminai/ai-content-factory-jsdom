@@ -92,7 +92,7 @@ graph LR
 <p align="center">
 <img src="https://github.com/deniskosminai/ai-content-factory-jsdom/blob/main/img/Screenshot_48.jpg" width="80%" alt="Google Sheets Content">
 <br>
-<i>Рис 2. Автоматическая агрегация и выгрузка готового SMM-контента в корпоративную базу данных.</i>
+<i>Рис 2. Автоматическая агрегация и выгрузка готового SMM-контента.</i>
 </p>
 
 **🤝 Как мы можем сотрудничать?**
